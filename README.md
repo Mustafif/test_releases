@@ -6,8 +6,8 @@ Commits changes
 git commit -m "first commit"  
 Adds remote repo  
 git remote add origin https://github.com/MKProj/DataCheckUpForOHLCV.git  
-Pull remote changes 
-git pull 
+Pull remote changes   
+git pull  
 Pushes changes to remote   
 git push -u origin master   
 
